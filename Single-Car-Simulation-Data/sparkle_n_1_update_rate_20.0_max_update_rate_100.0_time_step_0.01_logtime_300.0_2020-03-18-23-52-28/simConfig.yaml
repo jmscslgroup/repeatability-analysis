@@ -1,0 +1,3 @@
+{circumference: 230, description: 'CAT Vehicle Simulation:1Car, Iteration 0 ID 044d1d79-d576-45b0-af3e-7b56519fef74',
+  include_laser: false, log_time: 300.0, logdir: /home/reu-cat/CyverseData/ProjectSparkle,
+  max_update_rate: 100.0, n_vehicles: 1, time_step: 0.01, update_rate: 20.0}

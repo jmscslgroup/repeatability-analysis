@@ -1,0 +1,4 @@
+{circumference: 230, description: 'CAT Vehicle Simulation:1Car, Iteration 0 ID f369171d-d52f-4642-9099-e5a0376133ad',
+  include_laser: false, log_time: 300.0, logdir: /home/ivory/CyverseData/ProjectSparkle,
+  max_update_rate: 100.0, n_vehicles: 1, package_name: catvehicle, time_step: 0.01,
+  update_rate: 100.0}
